@@ -1,0 +1,8 @@
+BUILD/*
+*.pyc
+*~
+.mbed
+BUILD
+.mbed/*
+mbed_app.json
+mbed_settings.py
